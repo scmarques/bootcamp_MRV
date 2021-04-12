@@ -10,7 +10,9 @@ _________________________________________________________________
 -----------------------------------------------------------------
 * DIO.Series --> Atividade: Criando um APP simples de cadastro de séries em .NET.
   Observações: projeto realizado com algumas alterações (confirmação de exclusão e modificação nos métodos que solicitam as informações referentes à série.)
-  
+
+  * MRV.Bank --> Atividade: Criando uma aplicação de transferências bancárias com .NET.
+  Observações: projeto realizado conforme as orientações do instrutor.
 
 &nbsp;
 
