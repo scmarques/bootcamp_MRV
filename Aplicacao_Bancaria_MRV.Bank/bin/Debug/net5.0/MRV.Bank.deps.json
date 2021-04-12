@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MRV.Bank/1.0.0": {
+        "runtime": {
+          "MRV.Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MRV.Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

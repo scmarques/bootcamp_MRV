@@ -1,0 +1,16 @@
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.exe
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.deps.json
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.runtimeconfig.json
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.runtimeconfig.dev.json
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.dll
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\ref\MRV.Bank.dll
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\bin\Debug\net5.0\MRV.Bank.pdb
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.csprojAssemblyReference.cache
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.AssemblyInfoInputs.cache
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.AssemblyInfo.cs
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.csproj.CoreCompileInputs.cache
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.dll
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\ref\MRV.Bank.dll
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.pdb
+C:\Users\sepho\OneDrive\Documentos\MRV.Bank\obj\Debug\net5.0\MRV.Bank.genruntimeconfig.cache
