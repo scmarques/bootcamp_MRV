@@ -14,6 +14,9 @@ _________________________________________________________________
 * MRV.Bank --> Atividade: Criando uma aplicação de transferências bancárias com .NET.
   Observações: projeto realizado conforme as orientações do instrutor.
 
+* Mongo_DOTNET-DIO --> Atividade: Construindo um projeto de uma API.NET integrada ao MongoDB.
+  Observações: projeto realizado conforme demonstrado pelo instrutor, contendo métodos POST, GET, PUT, DELETE. 
+
 &nbsp;
 
 #
